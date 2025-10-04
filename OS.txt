@@ -1,0 +1,35 @@
+What is an Operating System? Defination, types, and featuresAn operating system (OS) is the core software that manages a computer's hardware and software resources, acting as an intermediary between the user and the computer. It handles fundamental tasks like memory and file management, controls input/output devices, and provides common services for applications to run. Popular examples include Microsoft Windows, Apple macOS and iOS, Google Android, and Linux.  
+This video explains the basics of operating systems and their functions:
+
+59s
+
+
+LearnFree
+YouTube · 1 Sept 2020
+What an Operating System Does
+Manages Hardware: It controls the central processing unit (CPU), memory, storage, and peripheral devices like printers and keyboards. 
+Manages Software: It coordinates multiple programs and applications, ensuring they have the resources they need to run efficiently and without conflict. 
+Provides a User Interface: It allows users to interact with the computer through a graphical user interface (GUI) or a command-line interface (CLI). 
+Allocates Resources: It allocates system resources, such as memory and processor time, to different programs as needed. 
+Handles Files: It manages the organization, storage, and retrieval of files on a device. 
+This video shows how operating systems manage different hardware resources:
+
+1m
+
+
+Learn Computer Science
+YouTube · 20 Feb 2023
+Why Operating Systems Are Important
+Enables Usability: Without an OS, a computer would be an unusable collection of hardware. 
+Simplifies Development: Operating systems provide a consistent environment, allowing developers to focus on creating applications rather than low-level hardware interactions. 
+Ensures Smooth Operation: By coordinating all system functions, the OS helps to keep devices running smoothly and efficiently. 
+Common Types of Operating Systems
+Desktop/Laptop OS: Microsoft Windows, Apple macOS, and Linux. 
+Mobile OS: Google Android and Apple iOS, designed for smartphones and tablets. 
+What is an Operating System? | IBM
+Authors. Stephanie Susnjara. Staff Writer. IBM Think. Ian Smalley. IBM Think. What is an operating system? An operating system (OS...
+
+IBM
+
+What is Operating System? Types of OS, Features and Examples
+An operating system (OS) is the program that, after being initially loaded into the computer by a boot program, manages all of the...
