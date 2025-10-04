@@ -1,0 +1,21 @@
+PWd
+/c/users/AIEMS/git
+
+AIEMS@DESKTOP-JLO1KS9 MINGW64 /c/users/AIEMS/git (main)
+$ cd "/c/users/AIEMS/git"
+
+AIEMS@DESKTOP-JLO1KS9 MINGW64 /c/users/AIEMS/git (main)
+$ git clone https://github.com/raksha14kumar37/git
+Cloning into 'git'...
+warning: You appear to have cloned an empty repository.
+
+AIEMS@DESKTOP-JLO1KS9 MINGW64 /c/users/AIEMS/git (main)
+$ cd git
+
+AIEMS@DESKTOP-JLO1KS9 MINGW64 /c/users/AIEMS/git/git (main)
+$ ls
+
+AIEMS@DESKTOP-JLO1KS9 MINGW64 /c/users/AIEMS/git/git (main)
+$ git remote -v
+origin  https://github.com/raksha14kumar37/git (fetch)
+origin  https://github.com/raksha14kumar37/git (push)
